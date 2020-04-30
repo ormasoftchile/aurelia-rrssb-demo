@@ -10,7 +10,7 @@
   "dependencies": {
     "aurelia-animator-css": "^1.0.4",
     "aurelia-bootstrapper": "^2.3.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "rrssb": "^1.14.0"
   },
   "devDependencies": {
